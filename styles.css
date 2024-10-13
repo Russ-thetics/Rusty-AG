@@ -14,3 +14,27 @@
     border-radius: 30px
     
 }
+#red {
+    color: red;
+}
+
+#green{
+    color: green;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+
+body{
+    background-color: antiquewhite;
+
+}
+#smk{
+    background-color:darkgreen ;
+    color: whitesmoke;
+}
+#gt{
+    color: #faf8f1;
+    background-color: #C58940;
+}
